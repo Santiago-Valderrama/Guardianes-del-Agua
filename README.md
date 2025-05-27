@@ -1,6 +1,6 @@
 🌊 Guardianes del Agua
 
-Guardianes del Agua es un prototipo de videojuego educativo en 3D que busca informar y concientizar a niños y jóvenes sobre la importancia del cuidado del agua y el saneamiento ambiental. A través de una narrativa interactiva, desafíos por niveles y escenarios inspirados en entornos reales, el juego combina diversión y aprendizaje para generar conciencia desde edades tempranas.
+Guardianes del Agua es un prototipo de videojuego educativo en 3D que busca informar y concientizar a niños y jóvenes sobre la importancia del cuidado del agua y el saneamiento ambiental. A través de una narrativa interactiva, desafíos por niveles y escenarios inspirados en entornos reales, el juego combina diversión y aprendizaje para generar conciencia en los niños de grados 5 a 7.
 
 🎯 Objetivo
 
