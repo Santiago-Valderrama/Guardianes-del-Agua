@@ -4,7 +4,7 @@ Guardianes del Agua es un prototipo de videojuego educativo en 3D que busca info
 
 🎯 Objetivo
 
-Promover el conocimiento sobre el uso responsable del agua y el impacto de nuestras acciones en el medio ambiente, mediante experiencias lúdicas e interactivas.
+Promover el conocimiento sobre el uso responsable del agua y  hacer que los niños se den cuenta de que pequeñas acciones impactan en el cambio del medio ambiente, mediante experiencias lúdicas e interactivas.  
 
 🧩 Características clave
 
